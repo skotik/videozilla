@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">VideoZilla</string>
+  <string id="32001">Settings</string>
+  <string id="32002">Показывать название в списке</string>
+  <string id="32003">Показывать название в ссылке</string>
+  <string id="32004">Очистить кэш</string>
+  <string id="32005">Показывать формат в списке</string>
+  <string id="32006">Показывать иконки в списке</string>
+  <string id="32007">Показывать постер</string>
+  <string id="32008">Мне уже больше 18 лет!</string>
+  <string id="33005">__Поиск__</string>
+  <string id="33001">&lt;&lt; Назад</string>
+  <string id="33002">Дальше &gt;&gt;</string>
+  <string id="33003">Что искать</string>
+  <string id="33010">Сортировать по дате</string>
+  <string id="33011">Сортировать по рейтингу</string>
+  <string id="33012">Сортировать по просмотрам</string>
+  <string id="33013">За всё время</string>
+  <string id="33014">За месяц</string>
+  <string id="33015">За неделю</string>
+  <string id="33016">За сегодня</string>
+  <string id="33017">Шурум-бурум</string>
+</strings>

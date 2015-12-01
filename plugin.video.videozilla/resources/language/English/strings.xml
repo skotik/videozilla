@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Plugin name -->
+  <string id="30000">VideoZilla</string>
+  <string id="32001">Settings</string>
+  <string id="32002">Show Title in list</string>
+  <string id="32003">Show Title in link</string>
+  <string id="32004">Clear Cache</string>
+  <string id="32005">Show file format in list</string>
+  <string id="32006">Show icon in list</string>
+  <string id="32007">Donwload thumbnail</string>
+  <string id="32008">18+ Accept!</string>
+  <string id="33005">__Search__</string>
+  <string id="33001">&lt;&lt; Previous</string>
+  <string id="33002">Next &gt;&gt;</string>
+  <string id="33003">Search query</string>
+  <string id="33010">By Date</string>
+  <string id="33011">By Rating</string>
+  <string id="33012">By Hits</string>
+  <string id="33013">All time</string>
+  <string id="33014">By month</string>
+  <string id="33015">By week</string>
+  <string id="33016">By today</string>
+  <string id="33017">_UnModered_</string>
+</strings>
